@@ -25,6 +25,9 @@ O Forno Fácil nasceu para resolver um problema real: a dificuldade que pessoas 
 | Feedback | expo-av, Animated API (React Native) |
 
 > Nota técnica: o fluxo completo do app (onboarding, receitas, preparo, alertas) está implementado, com simulação de leitura NFC e de temperatura no código. O firmware ESP32 já foi desenvolvido; a montagem do protótipo físico e os testes em hardware real são a próxima etapa do projeto.
+## Vídeo em formato Gif sem efeitos sonoros
+
+<img width="402" height="850" alt="Gif Forno fácil" src="https://github.com/user-attachments/assets/39c25bc2-b493-4542-b08b-c93388fbb14d" />
 
 ## Capturas de tela
 
