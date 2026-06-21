@@ -47,7 +47,7 @@ Fluxo completo do app: configuração inicial (feita uma única vez pelo familia
 
 ## Status do projeto
 
-Em desenvolvimento ativo desde jan/2025.
+Em desenvolvimento ativo desde maio/2026.
 
 ## Autor
 
