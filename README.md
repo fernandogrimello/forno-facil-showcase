@@ -25,31 +25,25 @@ O Forno Fácil nasceu para resolver um problema real: a dificuldade que pessoas 
 | Feedback | expo-av, Animated API (React Native) |
 
 > Nota técnica: o fluxo completo do app (onboarding, receitas, preparo, alertas) está implementado, com simulação de leitura NFC e de temperatura no código. O firmware ESP32 já foi desenvolvido; a montagem do protótipo físico e os testes em hardware real são a próxima etapa do projeto.
-## Vídeo em formato Gif sem efeitos sonoros
 
-<img width="402" height="850" alt="Gif Forno fácil" src="https://github.com/user-attachments/assets/39c25bc2-b493-4542-b08b-c93388fbb14d" />
+## Captura de vídeo em formato GIF (sem efeitos sonoros)
+
+<img width="402" height="850" alt="Gif Forno fácil" src="https://github.com/user-attachments/assets/782f38f6-1137-48aa-8935-f1121591c1cb" />
 
 ## Capturas de tela
 
-**Configuração inicial** (feita uma única vez pelo familiar)
+Fluxo completo do app: configuração inicial (feita uma única vez pelo familiar) seguida do uso no dia a dia.
 
 | | | |
 |---|---|---|
-| ![Splash](./screenshots/01-splash.jpeg) | ![Onboarding](./screenshots/02-onboarding-intro.jpeg) | ![Configurar nome](./screenshots/03-setup-nome.jpeg) |
+| ![Splash](01-splash.jpeg) | ![Onboarding](02-onboarding-intro.jpeg) | ![Configurar nome](03-setup-nome.jpeg) |
 | Abertura do app | Início da configuração | Passo 1 — nome de quem vai usar |
-| ![Conectar NFC](./screenshots/04-setup-nfc.jpeg) | ![Forno conectado](./screenshots/05-setup-sucesso.jpeg) | |
-| Passo 2 — conexão com o forno | Passo 3 — configuração concluída | |
-
-**Uso no dia a dia**
-
-| | | |
-|---|---|---|
-| ![Tela inicial](./screenshots/06-home.jpeg) | ![Categoria Carnes](./screenshots/07-categoria-carnes.jpeg) | ![Detalhe da receita](./screenshots/08-receita-detalhe.jpeg) |
-| Tela inicial personalizada | Lista de receitas por categoria | Detalhe da receita |
-| ![Passo a passo](./screenshots/09-receita-passo-a-passo.jpeg) | ![Pré-aquecimento](./screenshots/10-pre-aquecimento.jpeg) | ![Aquecendo](./screenshots/11-aquecendo.jpeg) |
-| Passo a passo da receita | Aviso de pré-aquecimento | Forno aquecendo, com progresso |
-| ![Forno pronto](./screenshots/12-forno-pronto.jpeg) | | |
-| Forno pronto, timer iniciado | | |
+| ![Conectar NFC](04-setup-nfc.jpeg) | ![Forno conectado](05-setup-sucesso.jpeg) | ![Tela inicial](06-home.jpeg) |
+| Passo 2 — conexão com o forno | Passo 3 — configuração concluída | Tela inicial personalizada |
+| ![Categoria Carnes](07-categoria-carnes.jpeg) | ![Detalhe da receita](08-receita-detalhe.jpeg) | ![Passo a passo](09-receita-passo-a-passo.jpeg) |
+| Lista de receitas por categoria | Detalhe da receita | Passo a passo da receita |
+| ![Pré-aquecimento](10-pre-aquecimento.jpeg) | ![Aquecendo](11-aquecendo.jpeg) | ![Forno pronto](12-forno-pronto.jpeg) |
+| Aviso de pré-aquecimento | Forno aquecendo, com progresso | Forno pronto, timer iniciado |
 
 ## Status do projeto
 
